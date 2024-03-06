@@ -9,6 +9,7 @@ agent any
              steps
                {
                 sh 'ls'
+                 sh 'mkdir abhi'
                 }
                }
               }
