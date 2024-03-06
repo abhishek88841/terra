@@ -9,7 +9,7 @@ agent any
              steps
                {
                 sh 'ls'
-                 sh 'mkdir pro1'
+                 sh 'mkdir phhhro1'
 		 sh 'uname'
                 }
                }
