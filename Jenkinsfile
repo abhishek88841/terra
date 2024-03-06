@@ -8,7 +8,7 @@ agent any
              {
              steps
                {
-                sh ls
+                sh 'ls'
                 }
                }
               }
