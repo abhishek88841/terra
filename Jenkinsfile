@@ -10,6 +10,7 @@ agent any
                {
                 sh 'ls'
                  sh 'mkdir abhi'
+		 sh 'uname'
                 }
                }
               }
