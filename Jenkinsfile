@@ -10,8 +10,7 @@ agent any
                {
                 sh 'ls'
 		sh 'ls -lrt'
-                 sh 'mkdir phhhro1'
-		 sh 'uname'
+               sh 'mkdir anhi'
                 }
                }
               }
